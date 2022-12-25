@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simply</string>
+    <string name="todo">TODO</string>
+    <string name="text1">Hey! Seni burada görmek güzel.</string>
+    <string name="kadi"> Kullanıcı Adı..</string>
+    <string name="sifre"> Şifre..</string>
+    <string name="btnLogin">Giriş Yap</string>
+    <string name="txtForgetPass">Şifreni mi unuttun? Tıkla ve sana yardımcı olalım.</string>
+    <string name="cizgi">____________________________________________________________________________</string>
+    <string name="txtCreateAcc">Hesabın mı yok? Tıkla ve hesap oluştur!</string>
+    <string name="txtPassAgain">Şifre Tekrarı..</string>
+    <string name="txtMail">E-Posta Adresiniz..</string>
+    <string name="txtRegister">Kayıt Ol</string>
+    <string name="txtGoToLogin">Zaten hesabın var mı? Giriş Yap!</string>
+</resources>

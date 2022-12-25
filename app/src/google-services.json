@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "521441392964",
+    "project_id": "thesimply-bfc1d",
+    "storage_bucket": "thesimply-bfc1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521441392964:android:c10a4e325299fff550bf11",
+        "android_client_info": {
+          "package_name": "com.thesimply.thesimply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521441392964-ofsrjfqclpj4cmrt3e8oger63d78jmmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thesimply.thesimply",
+            "certificate_hash": "e79bfdf4be814f94ec588fb1f1337f24dee7fcce"
+          }
+        },
+        {
+          "client_id": "521441392964-miqcudkoisihoe6qblvsso8ajisjul17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB-bvhbJNSI5JpfywEpyolouwp4ksBqVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521441392964-miqcudkoisihoe6qblvsso8ajisjul17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
