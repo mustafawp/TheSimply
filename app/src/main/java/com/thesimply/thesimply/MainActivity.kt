@@ -89,5 +89,10 @@ class MainActivity : AppCompatActivity() {
                 builder.show()
             }
         }
+        val fpass = findViewById(R.id.txtForgetPass) as TextView
+        fpass.setOnClickListener{
+            val git = Intent(this,SifreUActivity::class.java)
+            startActivity(git)
+        }
     }
 }

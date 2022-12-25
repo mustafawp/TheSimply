@@ -12,4 +12,9 @@
     <string name="txtMail">E-Posta Adresiniz..</string>
     <string name="txtRegister">Kayıt Ol</string>
     <string name="txtGoToLogin">Zaten hesabın var mı? Giriş Yap!</string>
+    <string name="txtKod">Kodu giriniz..</string>
+    <string name="txtNewPass">Yeni Şifrenizi girin..</string>
+    <string name="txtKaydet">Kaydet</string>
+    <string name="txtGeriDon">Geri dönmek için tıklayın.</string>
+    <string name="btnKodGonder">Kod Gönder</string>
 </resources>
