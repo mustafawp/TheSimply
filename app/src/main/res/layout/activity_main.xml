@@ -20,12 +20,13 @@
         android:contentDescription="@string/todo" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/txtBilgi"
         android:layout_width="167dp"
         android:layout_height="20dp"
         android:fontFamily="@font/architects_daughter"
         android:text="@string/text1"
         android:textSize="11sp"
+        android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -49,10 +50,10 @@
         android:textColorHint="#757575"
         android:drawableStart="@drawable/acclogo"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/textView"
+        app:layout_constraintEnd_toEndOf="@+id/txtBilgi"
         app:layout_constraintHorizontal_bias="0.513"
-        app:layout_constraintStart_toStartOf="@+id/textView"
-        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:layout_constraintStart_toStartOf="@+id/txtBilgi"
+        app:layout_constraintTop_toBottomOf="@+id/txtBilgi"
         app:layout_constraintVertical_bias="0.0" />
 
     <EditText
