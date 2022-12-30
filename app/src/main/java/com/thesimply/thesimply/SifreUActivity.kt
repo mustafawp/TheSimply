@@ -27,7 +27,7 @@ class SifreUActivity : AppCompatActivity() {
             var email: Email = SimpleEmail()
             email.hostName = "smtp.gmail.com"
             email.setSmtpPort(587)
-            email.isSSLOnConnect = true
+            email.isSSLOnConnect = false
             email.setAuthenticator(
                 DefaultAuthenticator(
                     "thesimplymusicplatform@gmail.com",
